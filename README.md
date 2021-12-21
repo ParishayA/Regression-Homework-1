@@ -9,7 +9,7 @@ Function LinearRegression() used from library sklearn.linear_model
 
 About the library and function: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Dataset #1 - [Dataset1.csv](https://github.com/ParishayA/Regression-Homework-1/files/7757074/Dataset1.csv)
 
@@ -33,6 +33,8 @@ Function DecisionTreeRegression() used from library sklearn.tree
 
 About the library and function: https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![graph2](https://user-images.githubusercontent.com/95951042/146975435-c5099817-0175-40f2-aeea-63bf5b20f402.png)
 
 Decision Tree Predictions (Year per Capita):
@@ -49,6 +51,8 @@ Decision Tree Predictions (Year per Capita):
 Function PolynmialFeutures() used from library sklearn.preprocessing
 
 About the library and function: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Dataset #2 - [Dataset2.csv](https://github.com/ParishayA/Regression-Homework-1/files/7757088/Dataset2.csv)
 
@@ -69,6 +73,8 @@ Random Forest Regression;
 Function RandomForestRegressor() used from library sklearn.ensemble
 
 About the library and function: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![graph4](https://user-images.githubusercontent.com/95951042/146975727-49d30d4f-6423-4eac-9a1a-9385a13c2092.png)
 

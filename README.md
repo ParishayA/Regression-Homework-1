@@ -26,3 +26,4 @@ Polynmial Regression;
 
 Random Forest Regression;
 
+![graph4](https://user-images.githubusercontent.com/95951042/146975727-49d30d4f-6423-4eac-9a1a-9385a13c2092.png)

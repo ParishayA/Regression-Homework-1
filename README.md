@@ -13,7 +13,9 @@ Linear Regression;
 Linear Predictions (Year per Capita):
 
 2011 = 0.8340418
+
 2012 = 0.83850375
+
 2013 = 0.84296571
 
 
@@ -24,7 +26,9 @@ Decision Tree Regression;
 Decision Tree Predictions (Year per Capita):
 
 2011 = 1.28
+
 2012 = 1.28
+
 2013 = 1.28
 
 
@@ -38,6 +42,7 @@ Polynmial Regression;
 Polynmial Predictions (Mean Temp per Year):
 
 2016 = 0.77558386
+
 2017 = 0.79594667
 
 
@@ -48,5 +53,6 @@ Random Forest Regression;
 Random Forest Predictions (Mean Temp per Year):
 
 2016 = 88353333
+
 2017 = 88353333
 
